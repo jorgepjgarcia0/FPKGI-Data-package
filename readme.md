@@ -1,8 +1,12 @@
-install fpkgi application
+guide:
 
-download the release pkg and install
+1 - install fpkgi application
 
-then open fpkgi and games list will be loaded
+2- download the release data pkg and install
+
+3- open the data application and delete it once completed
+
+4 - then open fpkgi application and games list will be loaded
 
 
 https://github.com/OptiTronOffical/FPKGI-Data-package/releases/tag/Main
