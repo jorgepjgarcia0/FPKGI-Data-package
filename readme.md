@@ -1,1 +1,3 @@
-https://www.mediafire.com/file/049lf8ylr9d53sj/PARTE_2_FPKGi_Data.pkg/file
+[![IMG-20260921-165219.jpg](https://i.postimg.cc/9XDskHVH/IMG-20260921-165219.jpg)](https://postimg.cc/CdVvZtzc)
+
+
